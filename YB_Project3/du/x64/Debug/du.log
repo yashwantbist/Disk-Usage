@@ -1,0 +1,5 @@
+﻿  du_functions.cpp
+C:\Users\yashw\OneDrive\Desktop\Summer C++\YB_Project3\du\du_functions.cpp(60,18): warning C4244: 'initializing': conversion from 'uintmax_t' to 'double', possible loss of data
+  du_main.cpp
+  Generating Code...
+  du.vcxproj -> C:\Users\yashw\OneDrive\Desktop\Summer C++\YB_Project3\x64\Debug\du.exe
